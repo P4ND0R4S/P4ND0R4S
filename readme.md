@@ -9,4 +9,7 @@
 
 ### <p align="center"> I AM HERE TO SHARE  KNOWLEDGE ◢◤ WRITEUPS ◢◤ AND TO LEARN </p>
 
-<p align="center"> OSINT ◢◤ SOCMINT ◢◤ IMINT ◢◤ GEOINT </p>
+<h3 align="center">
+&nbsp; OSINT ◢◤ SOCMINT ◢◤ IMINT ◢◤ GEOINT &nbsp;
+<img src="https://user-images.githubusercontent.com/126393691/221527240-2e3626fe-dca6-4dbb-a923-ae6cd52894ee.gif" width="35">
+</h3>
