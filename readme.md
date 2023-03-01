@@ -18,10 +18,12 @@ src="https://user-images.githubusercontent.com/126393691/221874272-a1bd6e6d-1428
     
 ❖ Currently Working as Freelancer
   
-❖ Open to offers or to collaborate in projects 
+❖ Open to offers or  collaborate in projects 
   
 ❖ Languages: English 🇬🇧 | Spanish 🇪🇸
   
 ❖ I write writeups.  
   
-❖ Learning more every day. 
+❖ Reach me: p4ndor4s@proton.me 
+
+ ![Bottom](https://user-images.githubusercontent.com/126393691/222103504-e265417b-a282-4fef-9449-77980ae01ea8.svg)
