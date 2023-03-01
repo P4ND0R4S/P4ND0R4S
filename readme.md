@@ -26,4 +26,8 @@ src="https://user-images.githubusercontent.com/126393691/221874272-a1bd6e6d-1428
   
 ❖ Reach me: p4ndor4s@proton.me 
 
- ![Bottom](https://user-images.githubusercontent.com/126393691/222103504-e265417b-a282-4fef-9449-77980ae01ea8.svg)
+<h2 align="Left">$\color{#000000}{𝐐𝐔𝐎𝐓𝐄𝐒}$ 📝</h2>
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" loading="lazy" alt="Quotes — Try refreshing" /> </p>
+  
+![Bottom](https://user-images.githubusercontent.com/126393691/222103504-e265417b-a282-4fef-9449-77980ae01ea8.svg)
