@@ -12,7 +12,7 @@ I am an OSINT analyst, i can produce a deep OSINT research-based detailed report
 src="https://user-images.githubusercontent.com/126393691/221874272-a1bd6e6d-1428-4a85-a47c-63c988c07f82.png" 
 />
 
-## $\color{#000000}{𝘼𝘽𝙊𝙐𝙏 \ 𝙈𝙀:}$ 
+## ABOUT ME: 
 
 ❖  Osint ❙ Socmint ❙  Imint ❙ Geoint ❙ 
     
@@ -26,7 +26,7 @@ src="https://user-images.githubusercontent.com/126393691/221874272-a1bd6e6d-1428
   
 ❖ Reach me: p4ndor4s@proton.me 
 
-<h2 align="Left">$\color{#000000}{𝐐𝐔𝐎𝐓𝐄𝐒}$ 📝</h2>
+<h2 align="Left">QUOTES 📝</h2>
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" loading="lazy" alt="Quotes — Try refreshing" /> </p>
   
